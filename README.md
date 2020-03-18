@@ -15,7 +15,7 @@ to
 
 ```<entry key="misc.defaultPage">f?p=100</entry>```
  
-When you enter ```http://hostname:8080/ords``` in the URL, ORDS is redirecting to ```http://hostname:8080/ords/apex```  because ```apex``` is currently set as the default value, which redirects to ```http://hostname:8080/ords/f?p=4550:1``` which is the APEX developer login page.
+When you enter to the url: ```http://hostname:8080/ords```, ORDS will be redirected to ```http://hostname:8080/ords/apex``` , because ```apex``` is currently set as the default value, then ```apex``` will be redirected to ```http://hostname:8080/ords/f?p=4550:1```, ```4550:1``` is the APEX developer login page.
 
 Or you can change using:
 
