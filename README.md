@@ -9,7 +9,7 @@ the default value is ```apex```.
 
 then, changed from
 
-```<entry key="misc.defaultPage">f?p=apex</entry>```
+```<entry key="misc.defaultPage">apex</entry>```
 
 to 
 
