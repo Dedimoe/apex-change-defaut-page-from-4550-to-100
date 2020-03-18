@@ -40,3 +40,5 @@ and then the last one:
 And then restart the ORDS.
 
 
+Reference:
+https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/18.3/aelig/about-REST-configuration-files.html#GUID-37AA1468-DCB3-4D8B-868C-1910A0C04D68
