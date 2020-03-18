@@ -3,7 +3,7 @@ apex-change-defaut-page-from-4550-to-100
 
 Assume we are using: ords
 
-Look at the ```misc.defaultPage``` parameter in your ORDS configuration file (default.xml). 
+Look at the ```misc.defaultPage``` parameter in your ORDS configuration file (```default.xml```). 
 
 the default value is ```apex```.
 
