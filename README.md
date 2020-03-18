@@ -29,6 +29,7 @@ Note: ```4550:1``` is the APEX developer login page.
 Or you can change using:
 
 ```java -jar ords.war configdir /usr/local/tomcat-8.5.24/conf```
+
 ```java -jar ords.war setup```
 
 follow the instructions,
