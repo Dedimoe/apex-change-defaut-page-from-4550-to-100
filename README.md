@@ -28,10 +28,14 @@ Note: ```4550:1``` is the APEX developer login page.
 2. 
 Or you can change using:
 
-```java -jar ords.war configdir /usr/local/tomcat-8.5.24/conf
-java -jar ords.war setup```
+```
+java -jar ords.war configdir /usr/local/tomcat-8.5.24/conf
+java -jar ords.war setup
+```
+
 follow the instructions,
 and then the last one:
+
 ```java -jar ords.war set-property misc.defaultPage f?p=100:1:0```
 
 And then restart the ORDS.
